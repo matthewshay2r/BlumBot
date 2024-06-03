@@ -51,6 +51,6 @@
 ~/BlumBot >>> python -m venv venv
 ~/BlumBot >>> venv\Scripts\activate
 ~/BlumBot >>> pip install -r requirements.txt
-~/BlumBot >>> edit data/config.py # Указываете ваши API_ID и API_HASH, по желанию другие настройки
+~/BlumBot >>> редактируем под себя data/config.py # Указываете ваши API_ID и API_HASH, по желанию другие настройки
 ~/BlumBot >>> python main.py
 ```
