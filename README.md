@@ -1,5 +1,5 @@
 [<img width="889" alt="image" src="https://github.com/matthewshay2r/BlumBot/assets/148196025/d8f2f17f-556a-473d-b3dc-fb78bbe1d342">](https://t.me/shay2r)
-![img1](.github/images/demo.png)
+
 
 ## Функционал  
 | Функционал                                                     | Поддерживается  |
