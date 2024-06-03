@@ -1,27 +1,31 @@
-API_ID = 123123123
+API_ID = 111111111
 API_HASH = 'example'
 
 # Задержка между подключениями к аккаунтам
 ACC_DELAY = [1, 15]
 
-# Папка с сессиями (не менять)
-WORKDIR = "sessions/"
-
 # Использовать прокси: True/False
 USE_PROXY = False
 
-# Полный путь к вашей папке sessions
+# Папка с сессиями (не менять)
+WORKDIR = "sessions/"
+
+# Полный путь к вашей папке sessions (не менять)
 SESSIONS_PATH = "/sessions"
 
 # Сколько получать поинтов с игры: [min, max]
 POINTS = [250, 300]
 
-# Тратить алмазы: True/False
-SPEND_DIAMONDS = True
+# Играть в игру: True/False
+PlAY_GAME = True
 
 # Задержка между играми: [min, max]
 SLEEP_GAME_TIME = [50, 100]
+
+# Задержка между любыми действиями: [min, max]
 MINI_SLEEP = [3, 7]
+
+
 hello = '''
 
 ██████╗░██╗░░░░░██╗░░░██╗███╗░░░███╗██████╗░░█████╗░████████╗
