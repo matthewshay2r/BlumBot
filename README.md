@@ -38,7 +38,7 @@
 Вы можете скачать [**Репозиторий**](https://github.com/matthewshay2r/BlumBot) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
 ~ >>> git clone https://github.com/matthewshay2r/BlumBot.git
-~ >>> cd HamsterKombatBot
+~ >>> cd BlumBot
 
 # Linux/MacOS
 ~/BlumBot >>> python3 -m venv venv
